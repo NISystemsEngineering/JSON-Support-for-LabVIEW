@@ -5,6 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="JSON Generation" Type="Folder">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Basic Types" Type="Folder">
 			<Item Name="JSON Basic Type.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Basic Type/JSON Basic Type.lvclass"/>
 			<Item Name="JSON Boolean.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Boolean/JSON Boolean.lvclass"/>
@@ -12,24 +13,17 @@
 			<Item Name="JSON Numeric.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Numeric/JSON Numeric.lvclass"/>
 			<Item Name="JSON String.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON String/JSON String.lvclass"/>
 		</Item>
-		<Item Name="Shared" Type="Folder">
-			<Item Name="Array To List.vi" Type="VI" URL="../subVis/Array To List.vi"/>
-			<Item Name="JSON Types.ctl" Type="VI" URL="../JSON Types.ctl"/>
-		</Item>
 		<Item Name="Structured Types" Type="Folder">
 			<Item Name="JSON Array.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Array/JSON Array.lvclass"/>
 			<Item Name="JSON Object.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Object/JSON Object.lvclass"/>
 			<Item Name="JSON Structured Type.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Structured Type/JSON Structured Type.lvclass"/>
 		</Item>
+		<Item Name="Shared" Type="Folder">
+			<Item Name="Array To List.vi" Type="VI" URL="../subVis/Array To List.vi"/>
+			<Item Name="JSON Types.ctl" Type="VI" URL="../JSON Types.ctl"/>
+			<Item Name="Token Types.ctl" Type="VI" URL="../JSON Parsing/Token Types.ctl"/>
+		</Item>
 		<Item Name="JSON Datatype.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Datatype/JSON Datatype.lvclass"/>
 	</Item>
-	<Item Name="JSON Parsing" Type="Folder">
-		<Item Name="Tokenizers" Type="Folder">
-			<Item Name="Tokenize  JSON String.vi" Type="VI" URL="../JSON Parsing/Tokenize  JSON String.vi"/>
-			<Item Name="Tokens to Array.vi" Type="VI" URL="../JSON Parsing/Tokens to Array.vi"/>
-			<Item Name="Tokens to Object.vi" Type="VI" URL="../JSON Parsing/Tokens to Object.vi"/>
-		</Item>
-	</Item>
-	<Item Name="Kill Quotes.vi" Type="VI" URL="../JSON Parsing/Kill Quotes.vi"/>
 	<Item Name="scratch.vi" Type="VI" URL="../scratch.vi"/>
 </Library>
