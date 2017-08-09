@@ -4,26 +4,26 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
-	<Item Name="JSON Generation" Type="Folder">
-		<Property Name="NI.SortType" Type="Int">3</Property>
-		<Item Name="Basic Types" Type="Folder">
-			<Item Name="JSON Basic Type.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Basic Type/JSON Basic Type.lvclass"/>
-			<Item Name="JSON Boolean.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Boolean/JSON Boolean.lvclass"/>
-			<Item Name="JSON Null.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Null/JSON Null.lvclass"/>
-			<Item Name="JSON Numeric.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Numeric/JSON Numeric.lvclass"/>
-			<Item Name="JSON String.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON String/JSON String.lvclass"/>
-		</Item>
-		<Item Name="Structured Types" Type="Folder">
-			<Item Name="JSON Array.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Array/JSON Array.lvclass"/>
-			<Item Name="JSON Object.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Object/JSON Object.lvclass"/>
-			<Item Name="JSON Structured Type.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Structured Type/JSON Structured Type.lvclass"/>
-		</Item>
-		<Item Name="Shared" Type="Folder">
-			<Item Name="Array To List.vi" Type="VI" URL="../subVis/Array To List.vi"/>
-			<Item Name="JSON Types.ctl" Type="VI" URL="../JSON Types.ctl"/>
-			<Item Name="Token Types.ctl" Type="VI" URL="../JSON Parsing/Token Types.ctl"/>
-		</Item>
-		<Item Name="JSON Datatype.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Datatype/JSON Datatype.lvclass"/>
+	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Item Name="Shared" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="Array To List.vi" Type="VI" URL="../subVis/Array To List.vi"/>
+		<Item Name="JSON Types.ctl" Type="VI" URL="../JSON Types.ctl"/>
+		<Item Name="Token Types.ctl" Type="VI" URL="../JSON Parsing/Token Types.ctl"/>
 	</Item>
+	<Item Name="Basic Types" Type="Folder">
+		<Item Name="JSON Basic Type.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Basic Type/JSON Basic Type.lvclass"/>
+		<Item Name="JSON Boolean.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Boolean/JSON Boolean.lvclass"/>
+		<Item Name="JSON Null.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Null/JSON Null.lvclass"/>
+		<Item Name="JSON Numeric.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Numeric/JSON Numeric.lvclass"/>
+		<Item Name="JSON String.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON String/JSON String.lvclass"/>
+	</Item>
+	<Item Name="Structured Types" Type="Folder">
+		<Item Name="JSON Array.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Array/JSON Array.lvclass"/>
+		<Item Name="JSON Object.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Object/JSON Object.lvclass"/>
+		<Item Name="JSON Structured Type.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Structured Type/JSON Structured Type.lvclass"/>
+	</Item>
+	<Item Name="API Definition.vi" Type="VI" URL="../API Definition.vi"/>
+	<Item Name="JSON Datatype.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Datatype/JSON Datatype.lvclass"/>
 	<Item Name="scratch.vi" Type="VI" URL="../scratch.vi"/>
 </Library>
