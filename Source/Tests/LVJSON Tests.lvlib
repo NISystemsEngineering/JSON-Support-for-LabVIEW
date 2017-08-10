@@ -333,5 +333,6 @@
 	<Item Name="calculate benchmark.vi" Type="VI" URL="../calculate benchmark.vi"/>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 	<Item Name="VS i3.vi" Type="VI" URL="../VS i3.vi"/>
+	<Item Name="VS JKI.vi" Type="VI" URL="../VS JKI.vi"/>
 	<Item Name="VS LAVA.vi" Type="VI" URL="../VS LAVA.vi"/>
 </Library>
