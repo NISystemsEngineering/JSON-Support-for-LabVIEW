@@ -10,6 +10,8 @@
 		<Item Name="Array To List.vi" Type="VI" URL="../subVis/Array To List.vi"/>
 		<Item Name="JSON Types.ctl" Type="VI" URL="../JSON Types.ctl"/>
 		<Item Name="Token Types.ctl" Type="VI" URL="../JSON Parsing/Token Types.ctl"/>
+		<Item Name="Pretty Print Level.vi" Type="VI" URL="../JSON Parsing/Pretty Print Level.vi"/>
+		<Item Name="Generate Tabs.vi" Type="VI" URL="../subVis/Generate Tabs.vi"/>
 	</Item>
 	<Item Name="Basic Types" Type="Folder">
 		<Item Name="JSON Basic Type.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Basic Type/JSON Basic Type.lvclass"/>
