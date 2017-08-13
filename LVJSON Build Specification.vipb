@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-08-08 12:01:46" Modified_Date="2017-08-11 08:12:34" Creator="tblair" Comments="" ID="718858fd5178601d39c81c8248003286">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-08-08 12:01:46" Modified_Date="2017-08-12 20:28:57" Creator="tblair" Comments="" ID="c1fb2bc3b5fa6ae9a591809581352dcc">
   <Library_General_Settings>
     <Package_File_Name>NI_lib_LVJSON</Package_File_Name>
-    <Library_Version>1.0.0.13</Library_Version>
+    <Library_Version>1.0.0.16</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>Builds</Library_Output_Folder>
@@ -348,7 +348,7 @@
         <Path>Source\JSON Data Classes\JSON Datatype\To Pretty String.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>136F52CAE12CEFDC40409E5E8F581751</GUID>
+      <GUID>0DB4061762AB31CC4B7592B7945CE1A7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -551,7 +551,7 @@
         <Path>Source\JSON Data Classes\JSON Array\Index Array.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EDC08822A754B7C461164108E64D579B</GUID>
+      <GUID>6BD0C659556097BD95F1A698739D521F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -572,34 +572,6 @@
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path/>
       </Synchronization_Info>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Value.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Source\JSON Data Classes\JSON Object\Get Value.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get All Keys and Values.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Source\JSON Data Classes\JSON Object\Get All Keys and Values.vi</Path>
-        <VI_Title/>
-      </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
@@ -628,7 +600,35 @@
         <Path>Source\JSON Data Classes\JSON Object\Remove Value.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B549AFE561BC4CAEAA0AC97D429190E1</GUID>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Get Parameter Value.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>2</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>Source\JSON Data Classes\JSON Object\Get Parameter Value.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Get All Keys and Values.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>3</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>Source\JSON Data Classes\JSON Object\Get All Keys and Values.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>16FBF5AEBD31A32B5E9BBD174642DAC6</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
