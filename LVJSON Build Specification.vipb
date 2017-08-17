@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-08-08 12:01:46" Modified_Date="2017-08-16 17:31:03" Creator="tblair" Comments="" ID="9b39b20e000f402209827656f8cf39e3">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-08-08 12:01:46" Modified_Date="2017-08-17 12:16:49" Creator="tblair" Comments="" ID="47fa79b649bc7c227ead664ac00379ba">
   <Library_General_Settings>
     <Package_File_Name>NI_lib_LVJSON</Package_File_Name>
-    <Library_Version>1.0.0.18</Library_Version>
+    <Library_Version>1.0.0.22</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>Builds</Library_Output_Folder>
@@ -219,7 +219,7 @@
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\JSON Data Classes\JSON Datatype\To More Specific Type.vi</Path>
+        <Path>Source\JSON Data Classes\JSON Helper\To More Specific Type.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -247,7 +247,7 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\JSON Data Classes\JSON Datatype\New JSON.vi</Path>
+        <Path>Source\JSON Data Classes\JSON Helper\New JSON.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -317,7 +317,7 @@
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\From Variant.vi</Path>
+        <Path>Source\JSON Data Classes\JSON Helper\From Variant.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -331,7 +331,7 @@
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\JSON Parsing\From String.vi</Path>
+        <Path>Source\JSON Data Classes\JSON Helper\From String.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -359,7 +359,7 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\JSON Data Classes\JSON Datatype\To Variant.vi</Path>
+        <Path>Source\JSON Data Classes\JSON Helper\To Variant.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -373,7 +373,7 @@
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\JSON Data Classes\JSON Datatype\LabVIEW to JSON.vi</Path>
+        <Path>Source\JSON Data Classes\JSON Helper\LabVIEW to JSON.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -387,10 +387,10 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\JSON Data Classes\JSON Datatype\JSON to LabVIEW.vi</Path>
+        <Path>Source\JSON Data Classes\JSON Helper\JSON to LabVIEW.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>51CDB2C876F7A61A26AF4F79FDE733B5</GUID>
+      <GUID>A999CC6ED744695BB1B957F94A795EBB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -492,7 +492,7 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\JSON Data Classes\JSON Datatype\New JSON.vi</Path>
+        <Path>Source\JSON Data Classes\JSON Helper\New JSON.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -607,7 +607,7 @@
         <Path>Source\JSON Data Classes\JSON Array\Delete from Array.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A137173663E0E66A1003E89752ABF660</GUID>
+      <GUID>344291EBA7586E333CC174F6656013D4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -695,10 +695,10 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\JSON Data Classes\JSON Datatype\New JSON.vi</Path>
+        <Path>Source\JSON Data Classes\JSON Helper\New JSON.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>06E36EF85C95C17B75FC9A5AE6DE97FC</GUID>
+      <GUID>7B43616612B4A7D1368F73D627E82E37</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
