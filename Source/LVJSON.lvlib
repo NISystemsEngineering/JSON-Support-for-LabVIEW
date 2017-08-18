@@ -8,7 +8,6 @@
 	<Item Name="Shared" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Array To List.vi" Type="VI" URL="../subVis/Array To List.vi"/>
-		<Item Name="JSON Types.ctl" Type="VI" URL="../JSON Types.ctl"/>
 		<Item Name="Token Types.ctl" Type="VI" URL="../JSON Parsing/Token Types.ctl"/>
 		<Item Name="Pretty Print Level.vi" Type="VI" URL="../JSON Parsing/Pretty Print Level.vi"/>
 		<Item Name="Generate Tabs.vi" Type="VI" URL="../subVis/Generate Tabs.vi"/>
@@ -30,4 +29,5 @@
 	<Item Name="JSON Null.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Datatype/JSON Null.lvclass"/>
 	<Item Name="scratch.vi" Type="VI" URL="../scratch.vi"/>
 	<Item Name="JSON Helper.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Helper/JSON Helper.lvclass"/>
+	<Item Name="JSON Types.ctl" Type="VI" URL="../JSON Types.ctl"/>
 </Library>
