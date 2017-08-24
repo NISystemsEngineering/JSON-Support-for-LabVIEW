@@ -13,6 +13,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="LVJSON.lvlib" Type="Library" URL="../LVJSON.lvlib"/>
 		<Item Name="Errors.ctl" Type="VI" URL="../Errors/Errors.ctl"/>
+		<Item Name="Token Type.ctl" Type="VI" URL="../JSON Data Classes/JSON Helper/Parsing/Token Type.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
@@ -21,6 +22,7 @@
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
+			<Item Name="Parse from String.vi" Type="VI" URL="../JSON Data Classes/JSON Helper/Parsing/Parse from String.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

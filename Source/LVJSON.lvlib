@@ -8,8 +8,7 @@
 	<Item Name="Shared" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Array To List.vi" Type="VI" URL="../subVis/Array To List.vi"/>
-		<Item Name="Token Types.ctl" Type="VI" URL="../JSON Parsing/Token Types.ctl"/>
-		<Item Name="Pretty Print Level.vi" Type="VI" URL="../JSON Parsing/Pretty Print Level.vi"/>
+		<Item Name="Pretty Print Level.vi" Type="VI" URL="../subVis/Pretty Print Level.vi"/>
 		<Item Name="Generate Tabs.vi" Type="VI" URL="../subVis/Generate Tabs.vi"/>
 		<Item Name="Array of Variants to Variant.vi" Type="VI" URL="../JSON Data Classes/JSON Boolean/Array of Variants to Variant.vi"/>
 		<Item Name="Error.vi" Type="VI" URL="../Errors/Error.vi"/>

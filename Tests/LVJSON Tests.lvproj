@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="15008000">
+<Project Type="Project" LVVersion="16008000">
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -27,6 +27,12 @@
 			</Item>
 			<Item Name="Errors.ctl" Type="VI" URL="../../Source/Errors/Errors.ctl"/>
 			<Item Name="LVJSON.lvlib" Type="Library" URL="../../Source/LVJSON.lvlib"/>
+			<Item Name="Parse from String.vi" Type="VI" URL="../../Source/JSON Data Classes/JSON Helper/Parsing/Parse from String.vi"/>
+			<Item Name="Token Type.ctl" Type="VI" URL="../../Source/JSON Data Classes/JSON Helper/Parsing/Token Type.ctl"/>
+			<Item Name="Tokenize  JSON String.vi" Type="VI" URL="../../Source/JSON Data Classes/JSON Helper/Tokenize  JSON String.vi"/>
+			<Item Name="Tokens to Array.vi" Type="VI" URL="../../Source/JSON Parsing/Tokens to Array.vi"/>
+			<Item Name="Tokens to Object.vi" Type="VI" URL="../../Source/JSON Parsing/Tokens to Object.vi"/>
+			<Item Name="Tokens to String.vi" Type="VI" URL="../../Source/JSON Parsing/Tokens to String.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
