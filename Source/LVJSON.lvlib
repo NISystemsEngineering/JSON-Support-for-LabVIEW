@@ -12,6 +12,8 @@
 		<Item Name="Generate Tabs.vi" Type="VI" URL="../subVis/Generate Tabs.vi"/>
 		<Item Name="Array of Variants to Variant.vi" Type="VI" URL="../JSON Data Classes/JSON Boolean/Array of Variants to Variant.vi"/>
 		<Item Name="Error.vi" Type="VI" URL="../Errors/Error.vi"/>
+		<Item Name="Errors.ctl" Type="VI" URL="../Errors/Errors.ctl"/>
+		<Item Name="Token Type.ctl" Type="VI" URL="../JSON Data Classes/JSON Helper/Parsing/Token Type.ctl"/>
 	</Item>
 	<Item Name="Literal Types" Type="Folder">
 		<Item Name="JSON Literal.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Basic Type/JSON Literal.lvclass"/>
@@ -24,9 +26,7 @@
 		<Item Name="JSON Object.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Object/JSON Object.lvclass"/>
 		<Item Name="JSON Structure.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Structured Type/JSON Structure.lvclass"/>
 	</Item>
-	<Item Name="API Definition.vi" Type="VI" URL="../API Definition.vi"/>
 	<Item Name="JSON Null.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Datatype/JSON Null.lvclass"/>
-	<Item Name="scratch.vi" Type="VI" URL="../scratch.vi"/>
 	<Item Name="JSON Helper.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Helper/JSON Helper.lvclass"/>
 	<Item Name="JSON Types.ctl" Type="VI" URL="../JSON Types.ctl"/>
 </Library>

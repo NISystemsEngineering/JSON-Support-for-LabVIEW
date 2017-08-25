@@ -12,8 +12,8 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="LVJSON.lvlib" Type="Library" URL="../LVJSON.lvlib"/>
-		<Item Name="Errors.ctl" Type="VI" URL="../Errors/Errors.ctl"/>
-		<Item Name="Token Type.ctl" Type="VI" URL="../JSON Data Classes/JSON Helper/Parsing/Token Type.ctl"/>
+		<Item Name="scratch.vi" Type="VI" URL="../scratch.vi"/>
+		<Item Name="API Definition.vi" Type="VI" URL="../API Definition.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
