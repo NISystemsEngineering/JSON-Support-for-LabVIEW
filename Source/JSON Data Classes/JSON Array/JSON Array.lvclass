@@ -85,7 +85,7 @@
 	<Item Name="Private Methods" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Build Array VIs" Type="Folder">
-			<Item Name="Build Array (Multi).vi" Type="VI" URL="../Build Array (Multi).vi">
+			<Item Name="Concatenate Arrays.vi" Type="VI" URL="../Concatenate Arrays.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%1!!!!"A!%!!!!/E"Q!"Y!!#%-4&amp;:+5U^/,GRW&lt;'FC%EJ44UYA18*S98EO&lt;(:D&lt;'&amp;T=Q!/3F.04C""=H*B?3"P&gt;81!!$B!=!!?!!!A$%R73F.04CZM&gt;GRJ9B&amp;+5U^/)%ZV&lt;'QO&lt;(:D&lt;'&amp;T=Q!!$5J44UYA2'&amp;U982Z='5!(%"!!!(`````!!)/3F.04C"%982B&gt;(FQ:8-!!$B!=!!?!!!B$%R73F.04CZM&gt;GRJ9B*+5U^/)%&amp;S=G&amp;Z,GRW9WRB=X-!$5J44UYA18*S98EA;7Y!0A$Q!!=!!!!"!!!!!!!$!!1!!!)!!&amp;A!!!!!!!!."1!!!!!!!!!!!!))!!!!%A!!!!!!!!A!"A!!!!!!!!!"!!5!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -94,14 +94,23 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">8396800</Property>
 			</Item>
-			<Item Name="Build Array (Single).vi" Type="VI" URL="../Build Array (Single).vi">
+			<Item Name="Append Array Element.vi" Type="VI" URL="../Append Array Element.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$U!!!!"1!%!!!!/E"Q!"Y!!#%-4&amp;:+5U^/,GRW&lt;'FC%EJ44UYA18*S98EO&lt;(:D&lt;'&amp;T=Q!/3F.04C""=H*B?3"P&gt;81!!$B!=!!?!!!A$%R73F.04CZM&gt;GRJ9B&amp;+5U^/)%ZV&lt;'QO&lt;(:D&lt;'&amp;T=Q!!$5J44UYA2'&amp;U982Z='5!/%"Q!"Y!!#%-4&amp;:+5U^/,GRW&lt;'FC%EJ44UYA18*S98EO&lt;(:D&lt;'&amp;T=Q!.3F.04C""=H*B?3"J&lt;A!_!0!!"Q!!!!%!!!!!!!)!!Q!!!A!!7!!!!!!!!!U&amp;!!!!!!!!!!!!!!A!!!!3!!!!!!!!#!!'!!!!!!!!!!%!"!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">8396800</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">794628</Property>
+			</Item>
+			<Item Name="Prepend Array Element.vi" Type="VI" URL="../Prepend Array Element.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$U!!!!"1!%!!!!/E"Q!"Y!!#%-4&amp;:+5U^/,GRW&lt;'FC%EJ44UYA18*S98EO&lt;(:D&lt;'&amp;T=Q!/3F.04C""=H*B?3"P&gt;81!!$B!=!!?!!!B$%R73F.04CZM&gt;GRJ9B*+5U^/)%&amp;S=G&amp;Z,GRW9WRB=X-!$5J44UYA18*S98EA;7Y!/%"Q!"Y!!#!-4&amp;:+5U^/,GRW&lt;'FC%5J44UYA4H6M&lt;#ZM&gt;G.M98.T!!!.3F.04C"%982B&gt;(FQ:1!_!0!!"Q!!!!%!!!!!!!)!!Q!!!A!!7!!!!!!!!!U%!!!!!!!!!!!!!")!!!!)!!!!!!!!#!!&amp;!!!!!!!!!!%!"!!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">34078720</Property>
 			</Item>
 		</Item>
 		<Item Name="Index Array VIs" Type="Folder">
@@ -419,7 +428,7 @@
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1115685392</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1115685394</Property>
 	</Item>
 	<Item Name="type" Type="Property Definition">
 		<Property Name="NI.ClassItem.Property.LongName" Type="Str">type</Property>

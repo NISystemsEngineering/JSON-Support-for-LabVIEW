@@ -14,6 +14,7 @@
 		<Item Name="LVJSON.lvlib" Type="Library" URL="../LVJSON.lvlib"/>
 		<Item Name="scratch.vi" Type="VI" URL="../scratch.vi"/>
 		<Item Name="API Definition.vi" Type="VI" URL="../API Definition.vi"/>
+		<Item Name="To File.vi" Type="VI" URL="../JSON Data Classes/JSON Helper/To File.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
@@ -22,7 +23,6 @@
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="Parse from String.vi" Type="VI" URL="../JSON Data Classes/JSON Helper/Parsing/Parse from String.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
