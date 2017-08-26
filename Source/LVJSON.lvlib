@@ -22,6 +22,13 @@
 		<Item Name="JSON String.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON String/JSON String.lvclass"/>
 	</Item>
 	<Item Name="Structured Types" Type="Folder">
+		<Item Name="Object Xnodes" Type="Folder">
+			<Item Name="Set Object Parameters.xnode" Type="XNode" URL="../JSON Data Classes/JSON Object/Xnodes/Set Object Parameters/Set Object Parameters.xnode"/>
+			<Item Name="Get Object Parameters.xnode" Type="XNode" URL="../JSON Data Classes/JSON Object/Xnodes/Get Object Parameters/Get Object Parameters.xnode"/>
+			<Item Name="Shared.lvlib" Type="Library" URL="../JSON Data Classes/JSON Object/Xnodes/Shared/Shared.lvlib">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
+		</Item>
 		<Item Name="JSON Array.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Array/JSON Array.lvclass"/>
 		<Item Name="JSON Object.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Object/JSON Object.lvclass"/>
 		<Item Name="JSON Structure.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Structured Type/JSON Structure.lvclass"/>
