@@ -22,6 +22,9 @@
 		<Item Name="JSON String.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON String/JSON String.lvclass"/>
 	</Item>
 	<Item Name="Structured Types" Type="Folder">
+		<Item Name="Array XNodes" Type="Folder">
+			<Item Name="Build JSON Array.xnode" Type="XNode" URL="../JSON Data Classes/JSON Array/Build Array XNode/Build JSON Array.xnode"/>
+		</Item>
 		<Item Name="JSON Array.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Array/JSON Array.lvclass"/>
 		<Item Name="JSON Object.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Object/JSON Object.lvclass"/>
 		<Item Name="JSON Structure.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Structured Type/JSON Structure.lvclass"/>
