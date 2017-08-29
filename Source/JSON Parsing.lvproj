@@ -11,6 +11,14 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Array XNodes" Type="Folder">
+			<Item Name="Build JSON Array.xnode" Type="XNode" URL="../JSON Data Classes/JSON Array/Build Array XNode/Build JSON Array.xnode"/>
+			<Item Name="Index JSON Array.xnode" Type="XNode" URL="../JSON Data Classes/JSON Array/Index Array XNode/Index JSON Array.xnode"/>
+		</Item>
+		<Item Name="Object XNodes" Type="Folder">
+			<Item Name="Get Object Parameters.xnode" Type="XNode" URL="../JSON Data Classes/JSON Object/Get Parameter XNode/Get Object Parameters.xnode"/>
+			<Item Name="Set Object Parameters.xnode" Type="XNode" URL="../JSON Data Classes/JSON Object/Set Object Parameters XNode/Set Object Parameters.xnode"/>
+		</Item>
 		<Item Name="LVJSON.lvlib" Type="Library" URL="../LVJSON.lvlib"/>
 		<Item Name="scratch.vi" Type="VI" URL="../scratch.vi"/>
 		<Item Name="API Definition.vi" Type="VI" URL="../API Definition.vi"/>
