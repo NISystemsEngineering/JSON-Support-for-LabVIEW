@@ -28,6 +28,7 @@
 		</Item>
 		<Item Name="Object XNodes" Type="Folder">
 			<Item Name="Get Object Parameters.xnode" Type="XNode" URL="../JSON Data Classes/JSON Object/Get Parameter XNode/Get Object Parameters.xnode"/>
+			<Item Name="Set Object Parameters.xnode" Type="XNode" URL="../JSON Data Classes/JSON Object/Set Object Parameters XNode/Set Object Parameters.xnode"/>
 		</Item>
 		<Item Name="JSON Array.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Array/JSON Array.lvclass"/>
 		<Item Name="JSON Object.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Object/JSON Object.lvclass"/>
