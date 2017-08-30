@@ -15,6 +15,7 @@
 	<Item Name="AdaptToInputs.vi" Type="Ability VI" URL="../AdaptToInputs.vi">
 		<Property Name="NI.XItem.Name" Type="Str">AdaptToInputs</Property>
 	</Item>
+	<Item Name="class loader.vi" Type="VI" URL="../class loader.vi"/>
 	<Item Name="dimensions.vi" Type="VI" URL="../dimensions.vi"/>
 	<Item Name="GenerateCode.vi" Type="Ability VI" URL="../GenerateCode.vi">
 		<Property Name="NI.XItem.Name" Type="Str">GenerateCode</Property>
@@ -38,6 +39,9 @@
 		<Property Name="NI.XItem.Name" Type="Str">Initialize</Property>
 	</Item>
 	<Item Name="Load Type Images.vi" Type="VI" URL="../Load Type Images.vi"/>
+	<Item Name="OnDrop.vi" Type="Ability VI" URL="../OnDrop.vi">
+		<Property Name="NI.XItem.Name" Type="Str">RespondToDrop</Property>
+	</Item>
 	<Item Name="OnResize2.vi" Type="Ability VI" URL="../OnResize2.vi">
 		<Property Name="NI.XItem.Name" Type="Str">OnResize2</Property>
 	</Item>
