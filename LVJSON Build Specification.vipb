@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-08-08 12:01:46" Modified_Date="2017-08-30 22:59:26" Creator="tblair" Comments="" ID="cb77eaa0aecbc9f1949f72a6036f67e0">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-08-08 12:01:46" Modified_Date="2017-08-31 00:50:38" Creator="tblair" Comments="" ID="e5587c8047ff4a1896e1cf4c9ee77cf8">
   <Library_General_Settings>
     <Package_File_Name>NI_lib_LVJSON</Package_File_Name>
-    <Library_Version>1.0.0.47</Library_Version>
+    <Library_Version>1.0.0.49</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>Builds</Library_Output_Folder>
@@ -152,9 +152,9 @@
         <Syncing_MNU_file/>
       </Controls_Palette_Information>
       <Functions_Palette_Information>
-        <Virtual_Palette_Base_Path>Functions\Connectivity</Virtual_Palette_Base_Path>
-        <Palette_Disk_Base_Path>&lt;menus&gt;\Categories\Computer</Palette_Disk_Base_Path>
-        <Syncing_MNU_file>&lt;menus&gt;\Categories\Computer\dir.mnu</Syncing_MNU_file>
+        <Virtual_Palette_Base_Path>Functions\Addons</Virtual_Palette_Base_Path>
+        <Palette_Disk_Base_Path>&lt;vi.lib&gt;\addons</Palette_Disk_Base_Path>
+        <Syncing_MNU_file/>
       </Functions_Palette_Information>
       <Apply_Short_Names_to_VI_Titles>true</Apply_Short_Names_to_VI_Titles>
       <Apply_Short_Names_to_VI_Titles_2>false</Apply_Short_Names_to_VI_Titles_2>
@@ -390,7 +390,7 @@
         <Path>Source\Object</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>93F386CEF1581717351355C2D4BAB2F6</GUID>
+      <GUID>37CED58AB9C2992F516306265A3601B9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -607,7 +607,7 @@
         <Path>Source\JSON Data Classes\JSON Array\Index Array XNode\Index JSON Array.xnode</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A6995E50241234527A5D74703CD3E43E</GUID>
+      <GUID>6807B43EF5AB32C1DBE9E029CEBAF974</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -726,7 +726,7 @@
         <Path>Source\JSON Data Classes\JSON Object\Set Object Parameters XNode\Set Object Parameters.xnode</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F4F7E51AEDD9DE13904648B401BA357A</GUID>
+      <GUID>D18A8A02859D6ED627ADDC3239299C70</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
