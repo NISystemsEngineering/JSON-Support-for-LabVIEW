@@ -13,6 +13,9 @@
 
 </Property>
 	<Item Name="Abilities" Type="Folder">
+		<Item Name="AdaptToInputs.vi" Type="Ability VI" URL="../AdaptToInputs.vi">
+			<Property Name="NI.XItem.Name" Type="Str">AdaptToInputs</Property>
+		</Item>
 		<Item Name="BuildMenu.vi" Type="Ability VI" URL="../BuildMenu.vi">
 			<Property Name="NI.XItem.Name" Type="Str">BuildMenu5</Property>
 		</Item>
