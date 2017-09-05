@@ -1,6 +1,11 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <XNode LVVersion="15008000">
+	<Property Name="NI.Lib.Description" Type="Str">Set Object Parameters adds parameters to the object with the given key. If the key already exists, the value is replaced.
+
+To add additional parameters, drag the node downward.</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!,M!!!*Q(C=T:8"DB*"%)9,V/C6IQ?484R/9D4V!HPA&amp;?!2[AU-6W94%JY!5YE?P(,B3O"IP.5LE/A,]!LDVUX0OMPALC;[M8M,G,_KK\[J\JE6S?/&amp;S&amp;.J(BJS\XA%`TG';D+J&lt;PR3/*MW'^[*(#0+_D2T?/ONEJ/)E^TJKJ[EI/RP4ONH@QL!0]G*O`6L)OKK+G7\^?O=)Y=WH@J=VQGR&lt;B,"_@I5L_J'WP7&gt;_GHF&lt;@^J`1TQUX^[`V5+30[G[@3`^,&gt;/`-UP_Z]CGDP\V^&lt;PD$]`([=.[SRI\P7@78]8])R@&lt;B[%TFFMV`]_`W0\(X[]:Q]'`?-BUCO\U!4GG'&amp;[\'[A"XKA"XKA"\KD/\KD/\KD/\KB'\KB'\KB'\KC+\KC+\KC;^Z&gt;*LKA#\JI0A."];"1E$2)%!3$)M&amp;(Q"0Q"$Q"$Z=3]!1]!5`!%`!1)A&amp;0Q"0Q"$Q"$]MEY!FY!J[!*_!B63;*0.(B#8B),Q[0Q_0Q/$Q/$S8&amp;Y8%!H'*/9C=*'/)YH2]/D]0D]0"4("[(R_&amp;R?"Q?X/,Q/$Q/D]0D],!E&gt;]5T4:LI]*"'$"[$R_!R?!Q?5IP"9`!90!;0Q5-Z-8A-(A0#+'AE"U'-25;!=7(Q'$R]C=&amp;D]"A]"I`"ASPPE/8/**IUU?&amp;2?"1?B5@B58B))1K0QK0Q+$Q+$WF&amp;Y6&amp;Y&amp;"[&amp;2_'BF#A]#I`#IY!I23EP3D*FI2+E#!I0@`GU;.YFTS3;:XEUDQ&gt;6SA'5=L#E("AJ"U(+"EP:/#E&lt;)K825BIIJ4&amp;3&lt;FD+D5A"F&amp;*93E)JA8,A=Y`NM"7WQ+&lt;9'"NB1WS1FP\FQ-0B)0P^8H;\H;R7+VEM&amp;D+&gt;4G5](MNI.*,B=#C$Q?$G&lt;88"0)Z?_V[;]@OW&lt;&lt;$V5HL&lt;;[\\&amp;]]W`&lt;?PVMMX\\@8L\`/HHS?&lt;`K8]`8S=L[^@D?@^6`[JP`]_XL:K\?T.M=6^CV`@\K[[HXY-ON^0+G2\0B?_B`?D&gt;+`]R_'(PU!QE#@/!!!!!!</Property>
+	<Property Name="NI.Lib.LocalName" Type="Str">Set Object Parameters</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">352354304</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
@@ -30,6 +35,9 @@
 		</Item>
 		<Item Name="GetGrowInfo.vi" Type="Ability VI" URL="../GetGrowInfo.vi">
 			<Property Name="NI.XItem.Name" Type="Str">GrowInfo</Property>
+		</Item>
+		<Item Name="GetHelp.vi" Type="Ability VI" URL="../GetHelp.vi">
+			<Property Name="NI.XItem.Name" Type="Str">Help</Property>
 		</Item>
 		<Item Name="GetImage.vi" Type="Ability VI" URL="../GetImage.vi">
 			<Property Name="NI.XItem.Name" Type="Str">Image</Property>

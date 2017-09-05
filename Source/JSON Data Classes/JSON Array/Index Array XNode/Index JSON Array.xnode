@@ -1,6 +1,18 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <XNode LVVersion="15008000">
+	<Property Name="NI.Lib.Description" Type="Str">Index JSON Array returns the elements that coorespond to the given index.
+
+To add additional parameters, drag the node downward. If no value is specified for the first index, it is assumed to be 0.
+If no value is specified for any other index, it is assumed to be one more than the previous index.
+
+To set the type of a given element, right-click on the output terminal and select the appropriate type.
+
+To set the type of all elements, right-click on the top of the node and select the appropriate type.
+
+To set the default type for newly expanded elements, right-click on the top of the node and select the appropriate type.</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+G!!!*Q(C=T:5LDBN"%)&lt;`716%17M7O$++FB&lt;*!8Q&amp;8[&amp;!,G!39#8%,,D)!A@&amp;+.RA,V!8#,!5('#?A$D@^04Y%@E226ZJJ\@G]6&gt;8V?@KHFGJ(#_F&amp;^J=/H4WO),`&lt;+87XV[KH@5@SX!1@]+`L8]E1R_`[?Z/_L@D0_*X^4N`&gt;_I[]B&gt;`&gt;7UT(P(XA@X4Z@A,^8?&gt;0][PAQT(`0M:4PB0\9&amp;L\L^D5`@]J`;0?KZ4]8XPTPL`A?^J`*&gt;@\_H&amp;35^]3%X8`MUGM=!=M[Z\C:\IC:\IC:\IA2\IA2\IA2\IDO\IDO\IDO\IBG\IBG\IBG\^;Y%O&gt;+(,SEIHR:.#3&gt;)E14):&amp;#7HB#@B38A3(B[6]#1]#5`#E`!Q21F0QJ0Q*$Q*$W&amp;+?"+?B#@B38B)65CS$(2Y%B\3+_!*?!+?A#@AI;1#HA!A+"9E$J+!I=!:X!1]!5`!Q[U#HI!HY!FY!B\=#HA#HI!HY!FY##F&gt;C5,4$H2Y3#/(R_&amp;R?"Q?BY@5=HA=(I@(Y8&amp;Y+#?(R_&amp;R)*S#4H)1Z!1Z%ZQ(B]@BY3+(R_&amp;R?"Q?BQ&gt;873%PH7FJWI%/D]&amp;D]"A]"I`"1QI:0!;0Q70Q'$SEF=&amp;D]"A]"I`"1SE:0!;0Q7/!'%5J,S/:%7B--A3$B\_S7[SM5B13+[.`^=N'6&gt;W!KBN,&gt;=/I&lt;A46"6:&gt;/.5&amp;57WU;A.6'[0[AV6`C#KA;G(6B+I4N?;]QJ&lt;9!JNB%WS-D&lt;!B.GB$LTRRP6ZLN6JJO6RKM6BI.JNJ-JFI0"ZL."JJ/"RK-"BMPV:XD/ZI_O`3F0P?(L_LG&gt;^B&lt;\%X0+`6@(\(`;+\0P[Y`4G`@`VN@P`_3XNNHW?PV(T[J?&lt;$D:K0PX?ZJL=9?2[Y0HT&amp;^OKUVHW8HM/X54=(`ZLIU2_P\+WR!!!!!!</Property>
+	<Property Name="NI.Lib.LocalName" Type="Str">Index JSON Array</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">352354304</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
@@ -27,6 +39,9 @@
 		</Item>
 		<Item Name="GetGrowInfo.vi" Type="Ability VI" URL="../GetGrowInfo.vi">
 			<Property Name="NI.XItem.Name" Type="Str">GrowInfo</Property>
+		</Item>
+		<Item Name="GetHelp.vi" Type="Ability VI" URL="../GetHelp.vi">
+			<Property Name="NI.XItem.Name" Type="Str">Help</Property>
 		</Item>
 		<Item Name="GetImage.vi" Type="Ability VI" URL="../GetImage.vi">
 			<Property Name="NI.XItem.Name" Type="Str">Image</Property>
