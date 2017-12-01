@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<XNode LVVersion="15008000">
+<XNode LVVersion="16008000">
 	<Property Name="NI.Lib.Description" Type="Str">Get Object Parameters returns the parameters that coorespond to the given key.
 
 To add additional parameters, drag the node downward.
@@ -10,9 +10,9 @@ To set the type of all of the parameters, right-click on the top of the node and
 
 To set the default type for newly expanded parameters, right-click on the top of the node and select the appropriate type.</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
-	<Property Name="NI.Lib.Icon" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!,U!!!*Q(C=T:5^&lt;B2.%)&lt;@"1)SZ*Q!/:WQ,G"J@18P%3JQD/2U7`)H^A:1%EB92(;!)(:#1)"%8=%3*X$O;,[H?XL.,GNB)2G*&lt;N@OT&amp;N`TX4XDK5WHEJ0..YX^.PR10ZBM2CWZ8($DX?B&gt;12+GR-&lt;VLR$&gt;&lt;;)=:V@:`7823X2`/0;P^G`V!$]C[HJ_'P`1E1:BKHE(@U,9CGXO&lt;P^[Q/5M2+-_H6"GX]9BD+FX&gt;G`:G\Y&gt;`IXA.X]&gt;@_B"J2RP&gt;9\`65DSM_/O_N@)];.D/X_&gt;YX.`L]&gt;@]7`=7YHRA\4B!V&lt;_W]@2OPP&lt;@^GETPS\_P`Y-`X2`\\@^\,?Y0_]J"G@:@'R!*TT+&lt;64`2%4`2%4`2%$`2!$`2!$`2!&gt;X2(&gt;X2(&gt;X2(.X2$.X2$.X44&gt;*C&amp;,H3BS^LG*MW42EH2J%!3$)K3DY1HY5FY%BZOF@!E0!F0QJ0Q%++%*_&amp;*?"+?B)=U*4Q*4]+4]#1]F'IEW39[0!E0Z28Q"$Q"4]!4]."3!5]!%$1,#A&gt;&amp;Q&amp;$A$#Y#HI!HY/&amp;3!5`!%`!%0!%0&lt;A5]!5`!%`!%0+3U69F'5S=[0*32Q_0Q/$Q/D].$;4E]$I`$Y`!Y0,34Q_0Q/""/1[=Y#(+3H!$HRO&amp;R?0C3Q_0Q/$Q/D]/$K_W1NZ7J.(7CQW0Q'$Q'D]&amp;D]&amp;"#"I`"9`!90!90:78Q'$Q'D]&amp;D]."+"I`"9`!9)%:4WMMI:C1;19:A]0$84IOV89J'9GXWH_:U5.50I0L"5D]Q[A&gt;"@906.UZ^1^187HU"V2&gt;'`9(6(U1&gt;5,WR?E(V1&amp;XT?96&gt;9B@9#DP"DL"$&lt;"`&lt;K[E0((B^@;WLKSN&gt;8F\KYO*#K^6+*S=H/DI[UO(BI@&lt;X^\7XNX@\NHL"H-:M`6Z;=PX4(J?FDG_7GJ_`@X)Q_`2]8D[_0,\Z](6_@P&lt;@F^H:[&lt;S=H2\@@$[&gt;H]?&lt;A^GL(`.3FD8_]@FWH7@FX='KP0\_L&lt;T6KN4\&lt;&lt;^GUXPJ8XAX[N(7@S$7[(]&gt;N&lt;5;!!!!!!</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!,U!!!*Q(C=T:5^&lt;B2.%)&lt;@"1)SZ*Q!/:WQ,G"J@18P%3JQD/2U7`)H^A:1%EB92(;!)(:#1)"%8=%3*X$O;,[H?XL.,GNB)2G*&lt;N@OT&amp;N`TX4XDK5WHEJ0..YX^.PR10ZBM2CWZ8($DX?B&gt;12+GR-&lt;VLR$&gt;&lt;;)=:V@:`7823X2`/0;P^G`V!$]C[HJ_'P`1E1:BKHE(@U,9CGXO&lt;P^[Q/5M2+-_H6"GX]9BD+FX&gt;G`:G\Y&gt;`IXA.X]&gt;@_B"J2RP&gt;9\`65DSM_/O_N@)];.D/X_&gt;YX.`L]&gt;@]7`=7YHRA\4B!V&lt;_W]@2OPP&lt;@^GETPS\_P`Y-`X2`\\@^\,?Y0_]J"G@:@'R!*TT+&lt;64`2%4`2%4`2%$`2!$`2!$`2!&gt;X2(&gt;X2(&gt;X2(.X2$.X2$.X44&gt;*C&amp;,H3BS^LG*MW42EH2J%!3$)K3DY1HY5FY%BZOF@!E0!F0QJ0Q%++%*_&amp;*?"+?B)=U*4Q*4]+4]#1]F'IEW39[0!E0Z28Q"$Q"4]!4]."3!5]!%$1,#A&gt;&amp;Q&amp;$A$#Y#HI!HY/&amp;3!5`!%`!%0!%0&lt;A5]!5`!%`!%0+3U69F'5S=[0*32Q_0Q/$Q/D].$;4E]$I`$Y`!Y0,34Q_0Q/""/1[=Y#(+3H!$HRO&amp;R?0C3Q_0Q/$Q/D]/$K_W1NZ7J.(7CQW0Q'$Q'D]&amp;D]&amp;"#"I`"9`!90!90:78Q'$Q'D]&amp;D]."+"I`"9`!9)%:4WMMI:C1;19:A]0$84IOV89J'9GXWH_:U5.50I0L"5D]Q[A&gt;"@906.UZ^1^187HU"V2&gt;'`9(6(U1&gt;5,WR?E(V1&amp;XT?96&gt;9B@9#DP"DL"$&lt;"`&lt;K[E0((B^@;WLKSN&gt;8F\KYO*#K^6+*S=H/DI[UO(BI@&lt;X^\7XNX@\NHL"H-:M`6Z;=PX4(J?FDG_7GJ_`@X)Q_`2]8D[_0,\Z](6_@P&lt;@F^H:[&lt;S=H2\@@$[&gt;H]?&lt;A^GL(`.3FD8_]@FWH7@FX='KP0\_L&lt;T6KN4\&lt;&lt;^GUXPJ8XAX[N(7@S$7[(]&gt;N&lt;5;!!!!!!</Property>
 	<Property Name="NI.Lib.LocalName" Type="Str">Get Object Parameters</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">352354304</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.XClass.Flags" Type="Int">0</Property>

@@ -1,12 +1,12 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<XNode LVVersion="15008000">
+<XNode LVVersion="16008000">
 	<Property Name="NI.Lib.Description" Type="Str">Build JSON Array returns a new JSON Array comprised of the given elements.
 
 To add additional elements, drag the node downward.</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
-	<Property Name="NI.Lib.Icon" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+'!!!*Q(C=Z:3\D2MR%):`'1Y%*Y9[-,9""^/!!Q8#*9\5QL3A&gt;%/J!!?48H:+8)!#.T!N#(!&amp;SBW&gt;0`*I_&gt;:L;.?0Q)"*D&lt;D]S:HZ_!#F7J&lt;33TV/&amp;@V1BA,DYZH0F$,?H*I^$HNF`&amp;J&lt;E/`+,0_*`'0_I@_YX)T`%`["=G0^6:LB@X.`:`!0`489YP([@G0^N]ZX\$]]XQ(1,0_*`"0L`]8L`2_7@H+4`L"-)STK37'*"?;90&gt;X?2%`U2%`U2%`U1!`U1!`U1!^U2X&gt;U2X&gt;U2X&gt;U1T&gt;U1T&gt;U1\&gt;PFR&amp;&gt;[%+8V=O8*%]3*5'4!-FE5*4]*4Q*4]+4]."6QJ0Q*$Q*4],$&amp;#5]#5`#E`!E0,AJY5FY%J[%*_%B6#8*7N(B38A)LY!HY!FY!J[!BZ1+?!+!)&amp;E1/!A#BI,"Y#0A#8A#(DY6]!1]!5`!%`!QL)!HY!FY!J[!"Z?[+V&amp;J3E7(BT"S?"Q?B]@B=8A),9@(Y8&amp;Y("[(BX2S?"Q?"]**[!1(19[4-](J/$Q/$YU=(I@(Y8&amp;Y("['[AFZX:F#5SI[0!;0Q70Q'$Q'$S&amp;E]"A]"I`"9`!16A;0Q70Q'$Q'$[FE]"A]"I]"9C1FP9RABK-RS2!-(H\VNFA^J;AE6KP;UVMPKNI&amp;6,N9;B&gt;'\3+I(&lt;$;Q;E&gt;C.J'KWWAWM;I,6BN)7K!;IH6!KJ.V)8`-X&lt;#DNA?WW&amp;&lt;&lt;)VVW+KY`O7*F]N&amp;Z`.:J^.*R_.2_`V?O^V/W_V7[`6;8&gt;&gt;JN6J&gt;HY%XV/O$]01O^8KX_04Z^:@\&lt;H-Y@HTV5.L3\\5Z^&amp;LSP4H=&gt;YS`,;U7J&gt;`D`W'\&lt;/0P]6XC?`&gt;1WN)PYT0@`H`A&lt;&gt;1,0:`((HU&amp;]3G-Y1!!!!!</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+'!!!*Q(C=Z:3\D2MR%):`'1Y%*Y9[-,9""^/!!Q8#*9\5QL3A&gt;%/J!!?48H:+8)!#.T!N#(!&amp;SBW&gt;0`*I_&gt;:L;.?0Q)"*D&lt;D]S:HZ_!#F7J&lt;33TV/&amp;@V1BA,DYZH0F$,?H*I^$HNF`&amp;J&lt;E/`+,0_*`'0_I@_YX)T`%`["=G0^6:LB@X.`:`!0`489YP([@G0^N]ZX\$]]XQ(1,0_*`"0L`]8L`2_7@H+4`L"-)STK37'*"?;90&gt;X?2%`U2%`U2%`U1!`U1!`U1!^U2X&gt;U2X&gt;U2X&gt;U1T&gt;U1T&gt;U1\&gt;PFR&amp;&gt;[%+8V=O8*%]3*5'4!-FE5*4]*4Q*4]+4]."6QJ0Q*$Q*4],$&amp;#5]#5`#E`!E0,AJY5FY%J[%*_%B6#8*7N(B38A)LY!HY!FY!J[!BZ1+?!+!)&amp;E1/!A#BI,"Y#0A#8A#(DY6]!1]!5`!%`!QL)!HY!FY!J[!"Z?[+V&amp;J3E7(BT"S?"Q?B]@B=8A),9@(Y8&amp;Y("[(BX2S?"Q?"]**[!1(19[4-](J/$Q/$YU=(I@(Y8&amp;Y("['[AFZX:F#5SI[0!;0Q70Q'$Q'$S&amp;E]"A]"I`"9`!16A;0Q70Q'$Q'$[FE]"A]"I]"9C1FP9RABK-RS2!-(H\VNFA^J;AE6KP;UVMPKNI&amp;6,N9;B&gt;'\3+I(&lt;$;Q;E&gt;C.J'KWWAWM;I,6BN)7K!;IH6!KJ.V)8`-X&lt;#DNA?WW&amp;&lt;&lt;)VVW+KY`O7*F]N&amp;Z`.:J^.*R_.2_`V?O^V/W_V7[`6;8&gt;&gt;JN6J&gt;HY%XV/O$]01O^8KX_04Z^:@\&lt;H-Y@HTV5.L3\\5Z^&amp;LSP4H=&gt;YS`,;U7J&gt;`D`W'\&lt;/0P]6XC?`&gt;1WN)PYT0@`H`A&lt;&gt;1,0:`((HU&amp;]3G-Y1!!!!!</Property>
 	<Property Name="NI.Lib.LocalName" Type="Str">Build JSON Array</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">352354304</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.XClass.Flags" Type="Int">0</Property>
