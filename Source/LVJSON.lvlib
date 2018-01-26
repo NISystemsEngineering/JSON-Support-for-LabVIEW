@@ -5,28 +5,4 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
-	<Item Name="Shared" Type="Folder">
-		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="Array To List.vi" Type="VI" URL="../subVis/Array To List.vi"/>
-		<Item Name="Pretty Print Level.vi" Type="VI" URL="../subVis/Pretty Print Level.vi"/>
-		<Item Name="Generate Tabs.vi" Type="VI" URL="../subVis/Generate Tabs.vi"/>
-		<Item Name="Array of Variants to Variant.vi" Type="VI" URL="../JSON Data Classes/JSON Boolean/Array of Variants to Variant.vi"/>
-		<Item Name="Error.vi" Type="VI" URL="../Errors/Error.vi"/>
-		<Item Name="Errors.ctl" Type="VI" URL="../Errors/Errors.ctl"/>
-		<Item Name="Token Type.ctl" Type="VI" URL="../JSON Data Classes/JSON Helper/Parsing/Token Type.ctl"/>
-	</Item>
-	<Item Name="Literal Types" Type="Folder">
-		<Item Name="JSON Literal.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Basic Type/JSON Literal.lvclass"/>
-		<Item Name="JSON Boolean.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Boolean/JSON Boolean.lvclass"/>
-		<Item Name="JSON Numeric.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Numeric/JSON Numeric.lvclass"/>
-		<Item Name="JSON String.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON String/JSON String.lvclass"/>
-	</Item>
-	<Item Name="Structured Types" Type="Folder">
-		<Item Name="JSON Array.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Array/JSON Array.lvclass"/>
-		<Item Name="JSON Object.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Object/JSON Object.lvclass"/>
-		<Item Name="JSON Structure.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Structured Type/JSON Structure.lvclass"/>
-	</Item>
-	<Item Name="JSON Null.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Datatype/JSON Null.lvclass"/>
-	<Item Name="JSON Helper.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Helper/JSON Helper.lvclass"/>
-	<Item Name="JSON Types.ctl" Type="VI" URL="../JSON Types.ctl"/>
 </Library>
