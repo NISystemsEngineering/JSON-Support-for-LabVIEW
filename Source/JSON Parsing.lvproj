@@ -19,11 +19,6 @@
 				<Item Name="LVNumericRepresentation.ctl" Type="VI" URL="/&lt;vilib&gt;/numeric/LVNumericRepresentation.ctl"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
-				<Item Name="LVJSON.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/JSON Support for LabVIEW/LVJSON.lvlib"/>
-				<Item Name="Read value (Boolean).vi" Type="VI" URL="/&lt;vilib&gt;/NI/JSON Support for LabVIEW/JSON Data Classes/JSON Boolean/Read value (Boolean).vi"/>
-				<Item Name="Read value (Numeric).vi" Type="VI" URL="/&lt;vilib&gt;/NI/JSON Support for LabVIEW/JSON Data Classes/JSON Numeric/Read value (Numeric).vi"/>
-				<Item Name="Read value (String).vi" Type="VI" URL="/&lt;vilib&gt;/NI/JSON Support for LabVIEW/JSON Data Classes/JSON String/Read value (String).vi"/>
-				<Item Name="Read Value.vi" Type="VI" URL="/&lt;vilib&gt;/NI/JSON Support for LabVIEW/JSON Data Classes/JSON Basic Type/Read Value.vi"/>
 			</Item>
 			<Item Name="JSON String.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON String/JSON String.lvclass"/>
 			<Item Name="JSON Numeric.lvclass" Type="LVClass" URL="../JSON Data Classes/JSON Numeric/JSON Numeric.lvclass"/>
