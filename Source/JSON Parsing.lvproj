@@ -12,6 +12,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="JSON Value.lvclass" Type="LVClass" URL="../JSON Value/JSON Value.lvclass"/>
+		<Item Name="JSFL Variant Support.lvlib" Type="Library" URL="../JSON Value/Variant Support/JSFL Variant Support.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
