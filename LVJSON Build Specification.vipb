@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-08-08 12:01:46" Modified_Date="2018-02-01 00:12:11" Creator="tblair" Comments="" ID="a4ca781e19b7e3d8729b65357892bb87">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-08-08 12:01:46" Modified_Date="2018-02-01 02:53:28" Creator="tblair" Comments="" ID="f7050e16aeb2dda6c1801a2250fdecbc">
   <Library_General_Settings>
     <Package_File_Name>NI_lib_LVJSON</Package_File_Name>
-    <Library_Version>2.0.0.65</Library_Version>
+    <Library_Version>2.1.0.66</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>Builds</Library_Output_Folder>
@@ -326,7 +326,7 @@ Simplified API, made all methods static. Added path VIs</Release_Notes>
         <Path>Source\JSON Value\Helper Methods</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>112E1953509E9BE7B8B7BFC9267EDE63</GUID>
+      <GUID>0CA7F6D4BBA47406E785D42924463279</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -529,7 +529,7 @@ Simplified API, made all methods static. Added path VIs</Release_Notes>
         <Path>Source\JSON Value\Array\Get Array Values.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D3CA8043B6AECCAD42E2916BFA79BDED</GUID>
+      <GUID>3B0F17AE7BD15805DE53AED4BC5C618D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -606,7 +606,7 @@ Simplified API, made all methods static. Added path VIs</Release_Notes>
         <Path>Source\JSON Value\Object\Remove Value.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6BD1C7DE61028B5058EA007EE7E5873C</GUID>
+      <GUID>D873C88E429FE17DDA18B2DFBD4B4BA8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -683,7 +683,7 @@ Simplified API, made all methods static. Added path VIs</Release_Notes>
         <Path>Source\JSON Value\Helper Methods\To File.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8B6DF381CE0BD002CFB8407670ECD874</GUID>
+      <GUID>BA29CDCC8B93BCA07AADF18ACA7F0137</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -746,7 +746,7 @@ Simplified API, made all methods static. Added path VIs</Release_Notes>
         <Path>Source\JSON Value\By Pointer\Set(path).vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>304C3FD7256F54921E2020EF11E6A63D</GUID>
+      <GUID>0CC94CD9B603D2312A43B5FFE9B9F4A0</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
