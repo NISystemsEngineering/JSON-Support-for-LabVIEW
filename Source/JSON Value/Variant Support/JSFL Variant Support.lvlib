@@ -16,9 +16,13 @@
 		<Item Name="Create From Variant (Object).vi" Type="VI" URL="../Create From Variant/Create From Variant (Object).vi"/>
 		<Item Name="Create From Variant (String).vi" Type="VI" URL="../Create From Variant/Create From Variant (String).vi"/>
 	</Item>
+<<<<<<< HEAD
+	<Item Name="From Variant.vi" Type="VI" URL="../From Variant.vi"/>
+=======
 	<Item Name="cluster to array.vi" Type="VI" URL="../cluster to array.vi"/>
 	<Item Name="From Variant.vi" Type="VI" URL="../From Variant.vi"/>
 	<Item Name="get all paths in variant.vi" Type="VI" URL="../get all paths in variant.vi"/>
 	<Item Name="get paths in variant helper.vi" Type="VI" URL="../get paths in variant helper.vi"/>
+>>>>>>> 2.1.0.67
 	<Item Name="To Variant.vi" Type="VI" URL="../To Variant.vi"/>
 </Library>
