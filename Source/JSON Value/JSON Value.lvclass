@@ -1124,15 +1124,6 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
 		</Item>
-		<Item Name="cluster to array.vi" Type="VI" URL="../subVIs/cluster to array.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$H!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!R!5Q&gt;798*J97ZU!"*!1!!"`````Q!&amp;"5&amp;S=G&amp;Z!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$%"4"X:B=GFB&lt;H1!6!$Q!!Q!!Q!%!!1!"A!%!!1!"!!%!!=!"!!%!!A$!!"Y!!!*!!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!"!!!!!!!1!*!!!!!!</Property>
-			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">160</Property>
-			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
-			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
-		</Item>
 		<Item Name="Delete Helper.vi" Type="VI" URL="../subVIs/Delete Helper.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;=!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Z!=!!?!!!5%EJ44UYA6G&amp;M&gt;75O&lt;(:D&lt;'&amp;T=Q!!$EJ44UYA6G&amp;M&gt;75A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"*!-0````])&lt;'&amp;T&gt;#"L:8E!!"2!-0````]+5'&amp;U;#""=H*B?1!!%E"!!!(`````!!A&amp;18*S98E!,%"Q!"Y!!"133F.04C"797RV:3ZM&gt;G.M98.T!!!.3F.04C"797RV:3"J&lt;A"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!(!!E!#A-!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!%3!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!,!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -1187,15 +1178,6 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">34078738</Property>
 		</Item>
-		<Item Name="get all paths in variant.vi" Type="VI" URL="../subVIs/get all paths in variant.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%&amp;!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!B!":!1!!"`````Q!%#8.U=H6D&gt;(6S:1!11$$`````"F.U=GFO:Q!!%E"!!!(`````!!9&amp;='&amp;U;(-!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$%"4"V:B=GFB&lt;H1!6!$Q!!Q!!Q!&amp;!!=!#!!)!!A!#!!)!!E!#!!)!!I$!!"Y!!!.#!!!#1!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!!I!!!!!!1!,!!!!!!</Property>
-			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
-			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
-		</Item>
 		<Item Name="get array data.vi" Type="VI" URL="../subVIs/get array data.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%R!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#R!=!!?!!!5%EJ44UYA6G&amp;M&gt;75O&lt;(:D&lt;'&amp;T=Q!!$5J44UYA18*S98EA;7Y!(%"!!!(`````!!5/3F.04C""=H*B?3"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!,%"Q!"Y!!"133F.04C"797RV:3ZM&gt;G.M98.T!!!.3F.04C"797RV:3"J&lt;A"5!0!!$!!$!!1!"!!'!!1!"!!%!!1!"Q!%!!1!#!)!!(A!!!U)!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!%!!!!!!"!!E!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -1204,15 +1186,6 @@
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">8388608</Property>
-		</Item>
-		<Item Name="get paths in variant helper.vi" Type="VI" URL="../subVIs/get paths in variant helper.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%=!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!B!":!1!!"`````Q!%#8.U=H6D&gt;(6S:1!)!$$`````!"*!1!!"`````Q!'"8"B&gt;'BT!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!N!!Q!&amp;;7ZE:8A!&amp;%!Q`````QN198*F&lt;H1A4G&amp;N:1!-1&amp;-(&gt;G&amp;S;7&amp;O&gt;!"5!0!!$!!$!!5!"Q!)!!A!#!!)!!A!#1!+!!M!$!-!!(A!!!U)!!!*!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!%+!!!!%A!!!!!"!!U!!!!!</Property>
-			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
-			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
-			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1115685392</Property>
 		</Item>
 		<Item Name="LookAhead.vi" Type="VI" URL="../subVIs/LookAhead.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'Q!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!H1$R!!!!!!!!!!)33F.04C"797RV:3ZM&gt;G.M98.T$F2P;W6O)&amp;2Z='5O9X2M!(.!&amp;A!-"%Z04E5+1V634&amp;F@4V"&amp;4AN$66*-76^$4%^421R4566"5E6%8U^125Y.5V&amp;616*&amp;2&amp;^$4%^4216$4UR04A6$4UV.11:46&amp;**4E='4F6.1E63"&amp;23655&amp;2E&amp;-5U5%4F6-4!!!"6203U6/!"&gt;!!Q!237ZE:8AA5'&amp;T=X2I=G^V:WA!)%!Q`````R&gt;+5U^/)&amp;.U=GFO:S"198.T&gt;'BS&lt;X6H;!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!,1!-!"5FO:'6Y!"2!-0````],3F.04C"4&gt;(*J&lt;G=!6!$Q!!Q!!Q!%!!5!"A!(!!=!"Q!(!!A!"Q!*!!I#!!"Y!!!.#!!!#1!!!!U+!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!#!!!!!A!!!!!!1!,!!!!!!</Property>
