@@ -4,10 +4,24 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
-	<Item Name="Create From Variant (Array).vi" Type="VI" URL="../Create From Variant/Create From Variant (Array).vi"/>
-	<Item Name="Create From Variant (Boolean).vi" Type="VI" URL="../Create From Variant/Create From Variant (Boolean).vi"/>
-	<Item Name="Create From Variant (Numeric).vi" Type="VI" URL="../Create From Variant/Create From Variant (Numeric).vi"/>
-	<Item Name="Create From Variant (Object).vi" Type="VI" URL="../Create From Variant/Create From Variant (Object).vi"/>
-	<Item Name="Create From Variant (String).vi" Type="VI" URL="../Create From Variant/Create From Variant (String).vi"/>
-	<Item Name="From Variant.vi" Type="VI" URL="../From Variant.vi"/>
+	<Item Name="Cast to Variant" Type="Folder">
+		<Item Name="Cast To Variant (Array).vi" Type="VI" URL="../Cast To Variant/Cast To Variant (Array).vi"/>
+		<Item Name="Cast To Variant (Object).vi" Type="VI" URL="../Cast To Variant/Cast To Variant (Object).vi"/>
+	</Item>
+	<Item Name="Create From Variant" Type="Folder">
+		<Item Name="Create From Variant (Array).vi" Type="VI" URL="../Create From Variant/Create From Variant (Array).vi"/>
+		<Item Name="Create From Variant (Boolean).vi" Type="VI" URL="../Create From Variant/Create From Variant (Boolean).vi"/>
+		<Item Name="Create From Variant (Numeric).vi" Type="VI" URL="../Create From Variant/Create From Variant (Numeric).vi"/>
+		<Item Name="Create From Variant (Object).vi" Type="VI" URL="../Create From Variant/Create From Variant (Object).vi"/>
+		<Item Name="Create From Variant (String).vi" Type="VI" URL="../Create From Variant/Create From Variant (String).vi"/>
+	</Item>
+	<Item Name="get all paths" Type="Folder"/>
+	<Item Name="subVIs" Type="Folder">
+		<Item Name="Array of Variants to Variant.vi" Type="VI" URL="../../subVIs/Array of Variants to Variant.vi"/>
+		<Item Name="Variant to Array of Variants.vi" Type="VI" URL="../Variant to Array of Variants.vi"/>
+	</Item>
+	<Item Name="get all paths in variant.vi" Type="VI" URL="../get all paths in variant.vi"/>
+	<Item Name="get paths in variant helper.vi" Type="VI" URL="../get paths in variant helper.vi"/>
+	<Item Name="JSON To Variant.vi" Type="VI" URL="../JSON To Variant.vi"/>
+	<Item Name="Variant To JSON.vi" Type="VI" URL="../Variant To JSON.vi"/>
 </Library>
