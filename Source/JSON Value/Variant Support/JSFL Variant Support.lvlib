@@ -15,13 +15,17 @@
 		<Item Name="Create From Variant (Object).vi" Type="VI" URL="../Create From Variant/Create From Variant (Object).vi"/>
 		<Item Name="Create From Variant (String).vi" Type="VI" URL="../Create From Variant/Create From Variant (String).vi"/>
 	</Item>
-	<Item Name="get all paths" Type="Folder"/>
 	<Item Name="subVIs" Type="Folder">
 		<Item Name="Array of Variants to Variant.vi" Type="VI" URL="../../subVIs/Array of Variants to Variant.vi"/>
 		<Item Name="Variant to Array of Variants.vi" Type="VI" URL="../Variant to Array of Variants.vi"/>
 	</Item>
-	<Item Name="get all paths in variant.vi" Type="VI" URL="../get all paths in variant.vi"/>
-	<Item Name="get paths in variant helper.vi" Type="VI" URL="../get paths in variant helper.vi"/>
+	<Item Name="variant paths" Type="Folder">
+		<Item Name="get all paths in JSON" Type="Folder">
+			<Item Name="get all paths in JSON.vi" Type="VI" URL="../get all paths in JSON.vi"/>
+		</Item>
+		<Item Name="get all paths in variant.vi" Type="VI" URL="../get all paths in variant.vi"/>
+		<Item Name="get paths in variant helper.vi" Type="VI" URL="../get paths in variant helper.vi"/>
+	</Item>
 	<Item Name="JSON To Variant.vi" Type="VI" URL="../JSON To Variant.vi"/>
 	<Item Name="Variant To JSON.vi" Type="VI" URL="../Variant To JSON.vi"/>
 </Library>
