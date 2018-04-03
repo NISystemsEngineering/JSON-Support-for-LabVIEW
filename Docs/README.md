@@ -8,7 +8,7 @@ LabVIEW 2016 or greater
 
 ### Installing
 
-Install the latest release using VI Package Manager. You can find the latest release [here](/../../releases/latest)
+Install the latest release using VI Package Manager. You can find the latest release [here](https://github.com/NISystemsEngineering/JSON-Support-for-LabVIEW/releases/latest)
 
 ## Contributing
 
@@ -16,13 +16,13 @@ Please read [CONTRIBUTING.md](Docs/CONTRIBUTING.md) for details on our code of c
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/NISystemsEngineering/JSON-Support-for-LabVIEW/tags). 
 
 ## Authors
 
 * **Tanner Blair** - *Initial work* - [](https://github.com/tannerblair)
 
-See also the list of [contributors](contributors) who participated in this project.
+See also the list of [contributors](https://github.com/NISystemsEngineering/JSON-Support-for-LabVIEW/contributors) who participated in this project.
 
 ## License
 
