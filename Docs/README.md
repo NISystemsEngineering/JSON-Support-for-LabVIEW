@@ -8,11 +8,11 @@ LabVIEW 2016 or greater
 
 ### Installing
 
-Install the latest release using VI Package Manager. You can find the latest release [here](https://github.com/NISystemsEngineering/JSON-Support-for-LabVIEW/releases/latest)
+Install the latest release using VI Package Manager. You can find the latest release [here](https://github.com/NISystemsEngineering/JSON-Support-for-LabVIEW/releases/latest).
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](Docs/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
@@ -26,4 +26,4 @@ See also the list of [contributors](https://github.com/NISystemsEngineering/JSON
 
 ## License
 
-This project is licensed under the Apache 2.0 - see the [LICENSE.md](Docs/license.txt) file for details
+This project is licensed under the Apache 2.0 - see the [LICENSE.md](license.txt) file for details.
