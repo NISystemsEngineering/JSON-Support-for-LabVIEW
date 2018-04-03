@@ -16,7 +16,7 @@ Please read [CONTRIBUTING.md](../Docs/CONTRIBUTING.md) for details on our code o
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](../tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](tags). 
 
 ## Authors
 
