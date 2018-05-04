@@ -12,11 +12,22 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="JSON Value.lvclass" Type="LVClass" URL="../JSON Value/JSON Value.lvclass"/>
+		<Item Name="JSFL Variant Support.lvlib" Type="Library" URL="../JSON Value/Variant Support/JSFL Variant Support.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
+				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
+				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="LVNumericRepresentation.ctl" Type="VI" URL="/&lt;vilib&gt;/numeric/LVNumericRepresentation.ctl"/>
+				<Item Name="Create From Variant (Numeric).vi" Type="VI" URL="/&lt;vilib&gt;/NI/JSON Support for LabVIEW/JSON Value/Variant Support/Create From Variant/Create From Variant (Numeric).vi"/>
+				<Item Name="Create From Variant (String).vi" Type="VI" URL="/&lt;vilib&gt;/NI/JSON Support for LabVIEW/JSON Value/Variant Support/Create From Variant/Create From Variant (String).vi"/>
 			</Item>
+			<Item Name="Create From Variant (Object).vi" Type="VI" URL="../JSON Value/Variant Support/Create From Variant/Create From Variant (Object).vi"/>
+			<Item Name="Create From Variant (Boolean).vi" Type="VI" URL="../JSON Value/Variant Support/Create From Variant/Create From Variant (Boolean).vi"/>
+			<Item Name="Create From Variant (Array).vi" Type="VI" URL="../JSON Value/Variant Support/Create From Variant/Create From Variant (Array).vi"/>
+			<Item Name="Cast To Variant (Array).vi" Type="VI" URL="../JSON Value/Variant Support/Cast To Variant/Cast To Variant (Array).vi"/>
+			<Item Name="Cast To Variant (Object).vi" Type="VI" URL="../JSON Value/Variant Support/Cast To Variant/Cast To Variant (Object).vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
