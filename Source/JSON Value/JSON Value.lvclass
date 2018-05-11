@@ -539,7 +539,7 @@
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 			</Item>
 			<Item Name="To Pretty String (Boolean).vi" Type="VI" URL="../Helper Methods/To String/To Pretty String (Boolean).vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%K!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!""!-0````]'5X2S;7ZH!!!E1#%?:7ZB9GRF)%RB9F:*26=A:8BU:7ZT;7^O=T]A+&amp;1J!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!!Q!';7ZE:7ZU!!!M1(!!(A!!&amp;"*+5U^/)&amp;:B&lt;(6F,GRW9WRB=X-!!!V+5U^/)&amp;:B&lt;(6F)'FO!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"A!(!!1!#!!*!Q!!?!!!$1A!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!")!!!!1!!!!!!%!#A!!!!!</Property>
@@ -575,7 +575,7 @@
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">34078738</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">34078736</Property>
 			</Item>
 			<Item Name="To Pretty String (String).vi" Type="VI" URL="../Helper Methods/To String/To Pretty String (String).vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%K!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!""!-0````]'5X2S;7ZH!!!E1#%?:7ZB9GRF)%RB9F:*26=A:8BU:7ZT;7^O=T]A+&amp;1J!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!!Q!';7ZE:7ZU!!!M1(!!(A!!&amp;"*+5U^/)&amp;:B&lt;(6F,GRW9WRB=X-!!!V+5U^/)&amp;:B&lt;(6F)'FO!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"A!(!!1!#!!*!Q!!?!!!$1A!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!")!!!!1!!!!!!%!#A!!!!!</Property>
