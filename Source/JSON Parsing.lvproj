@@ -20,9 +20,9 @@
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="LVNumericRepresentation.ctl" Type="VI" URL="/&lt;vilib&gt;/numeric/LVNumericRepresentation.ctl"/>
+				<Item Name="Create From Variant (String).vi" Type="VI" URL="/&lt;vilib&gt;/NI/JSON Support for LabVIEW/JSON Value/Variant Support/Create From Variant/Create From Variant (String).vi"/>
+				<Item Name="Create From Variant (Numeric).vi" Type="VI" URL="/&lt;vilib&gt;/NI/JSON Support for LabVIEW/JSON Value/Variant Support/Create From Variant/Create From Variant (Numeric).vi"/>
 			</Item>
-			<Item Name="Cast To Variant (Array).vi" Type="VI" URL="../JSON Value/Variant Support/Cast To Variant/Cast To Variant (Array).vi"/>
-			<Item Name="Cast To Variant (Object).vi" Type="VI" URL="../JSON Value/Variant Support/Cast To Variant/Cast To Variant (Object).vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
