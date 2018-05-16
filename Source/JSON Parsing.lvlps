@@ -1,7 +1,4 @@
 [ProjectWindow_Data]
-<<<<<<< HEAD
-ProjectExplorer.ClassicPosition[String] = "190,1210,795,1644"
-=======
 ProjectExplorer.ClassicPosition[String] = "209,979,815,1413"
 
 [AB_Cache_{160B96C6-FD29-4031-AEE5-0D464B27D3F3}]
@@ -11,5 +8,4 @@ Cache_Path[Path] Line0002 = "{160B96C6-FD29-4031-AEE5-0D464B27D3F3}.txt"
 [AB_Cache_{01328221-D2AE-4C36-9791-776C11B1BB77}]
 Cache_Path[Path] Line0001 = "/C/Users/Tanner Blair/AppData/Local/Temp/AB_Cache_"
 Cache_Path[Path] Line0002 = "{01328221-D2AE-4C36-9791-776C11B1BB77}.txt"
->>>>>>> feature/fixing_to_and_from_variant
 

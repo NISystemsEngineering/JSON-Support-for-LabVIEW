@@ -20,10 +20,6 @@
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="LVNumericRepresentation.ctl" Type="VI" URL="/&lt;vilib&gt;/numeric/LVNumericRepresentation.ctl"/>
-<<<<<<< HEAD
-				<Item Name="Create From Variant (String).vi" Type="VI" URL="/&lt;vilib&gt;/NI/JSON Support for LabVIEW/JSON Value/Variant Support/Create From Variant/Create From Variant (String).vi"/>
-				<Item Name="Create From Variant (Numeric).vi" Type="VI" URL="/&lt;vilib&gt;/NI/JSON Support for LabVIEW/JSON Value/Variant Support/Create From Variant/Create From Variant (Numeric).vi"/>
-=======
 				<Item Name="imagedata.ctl" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/imagedata.ctl"/>
 				<Item Name="Picture to Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/Picture to Pixmap.vi"/>
 				<Item Name="LVFixedPointRepRangeTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/fxp/LVFixedPointRepRangeTypeDef.ctl"/>
@@ -76,7 +72,6 @@
 				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[2].type" Type="Str">Library</Property>
 				<Property Name="SourceCount" Type="Int">3</Property>
->>>>>>> feature/fixing_to_and_from_variant
 			</Item>
 		</Item>
 	</Item>

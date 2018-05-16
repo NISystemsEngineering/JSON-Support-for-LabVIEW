@@ -1,14 +1,7 @@
-<<<<<<< HEAD
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-08-08 12:01:46" Modified_Date="2018-05-11 10:56:06" Creator="tblair" Comments="" ID="487fa99944d9b8b618f01913d245ee0b">
-  <Library_General_Settings>
-    <Package_File_Name>NI_lib_LVJSON</Package_File_Name>
-    <Library_Version>2.1.3.73</Library_Version>
-=======
 <VI_Package_Builder_Settings Version="2017" Created_Date="2017-08-08 12:01:46" Modified_Date="2018-05-16 11:42:12" Creator="tblair" Comments="" ID="c450ed914d47d2e10647002b70946fea">
   <Library_General_Settings>
     <Package_File_Name>NI_lib_LVJSON</Package_File_Name>
     <Library_Version>3.0.0.69</Library_Version>
->>>>>>> feature/fixing_to_and_from_variant
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>Builds</Library_Output_Folder>
@@ -39,12 +32,8 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL/>
-<<<<<<< HEAD
-      <Release_Notes>hotfix for pretty string on empty objects and arrays</Release_Notes>
-=======
       <Release_Notes>!!!BREAKING CHANGE!!!
 Revamped variant support. Untested at this point, upgrading is not recommended.</Release_Notes>
->>>>>>> feature/fixing_to_and_from_variant
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -127,7 +116,7 @@ Revamped variant support. Untested at this point, upgrading is not recommended.<
         <Path>JSON Parsing.lvproj</Path>
       </Exclusions>
     </Source_Files>
-    <License_Agreement_Filepath>Docs\license.txt</License_Agreement_Filepath>
+    <License_Agreement_Filepath>license.txt</License_Agreement_Filepath>
     <Licensing_and_Activation>
       <License_LF_file_path/>
       <Licensed_library_file_path/>
@@ -337,11 +326,7 @@ Revamped variant support. Untested at this point, upgrading is not recommended.<
         <Path>Source\JSON Value\Helper Methods</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
-      <GUID>F8E5C42241236DDBA2E193082DEA2FC7</GUID>
-=======
       <GUID>12375B01E650D0FAA5020E294343220E</GUID>
->>>>>>> feature/fixing_to_and_from_variant
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -544,11 +529,7 @@ Revamped variant support. Untested at this point, upgrading is not recommended.<
         <Path>Source\JSON Value\Array\Get Array Values.vi</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
-      <GUID>9D9770D801B497060A694FDB970A4872</GUID>
-=======
       <GUID>E7036F0B42B0AACCBC859A1298B46A44</GUID>
->>>>>>> feature/fixing_to_and_from_variant
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -625,11 +606,7 @@ Revamped variant support. Untested at this point, upgrading is not recommended.<
         <Path>Source\JSON Value\Object\Remove Value.vi</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
-      <GUID>B7035122BB31594664B9AB83D5D2992D</GUID>
-=======
       <GUID>6EF0E54EF88AAF06E522E4CFF7E7F911</GUID>
->>>>>>> feature/fixing_to_and_from_variant
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -706,11 +683,7 @@ Revamped variant support. Untested at this point, upgrading is not recommended.<
         <Path>Source\JSON Variant Support\variant to json.vi</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
-      <GUID>50B214AFF4ECCA54569616A6CF06804E</GUID>
-=======
       <GUID>092340EC7FDBF3EAAE9FC801CFE33CDA</GUID>
->>>>>>> feature/fixing_to_and_from_variant
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -773,11 +746,7 @@ Revamped variant support. Untested at this point, upgrading is not recommended.<
         <Path>Source\JSON Value\By Pointer\Set(path).vi</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
-      <GUID>3A8D9564C52401F4E025E618DAC6CC53</GUID>
-=======
       <GUID>E1A0DE7CBA1AE502147CAC432DDB3034</GUID>
->>>>>>> feature/fixing_to_and_from_variant
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
