@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-08-08 12:01:46" Modified_Date="2018-05-16 11:42:12" Creator="tblair" Comments="" ID="c450ed914d47d2e10647002b70946fea">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-08-08 12:01:46" Modified_Date="2018-05-16 11:59:14" Creator="tblair" Comments="" ID="70716760d342d564bde64d43382e2ba2">
   <Library_General_Settings>
     <Package_File_Name>NI_lib_LVJSON</Package_File_Name>
-    <Library_Version>3.0.0.69</Library_Version>
+    <Library_Version>3.0.0.70</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>Builds</Library_Output_Folder>
@@ -326,7 +326,7 @@ Revamped variant support. Untested at this point, upgrading is not recommended.<
         <Path>Source\JSON Value\Helper Methods</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>12375B01E650D0FAA5020E294343220E</GUID>
+      <GUID>E784BEF2A78C47789D30473A75F43C3D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -529,7 +529,7 @@ Revamped variant support. Untested at this point, upgrading is not recommended.<
         <Path>Source\JSON Value\Array\Get Array Values.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E7036F0B42B0AACCBC859A1298B46A44</GUID>
+      <GUID>6639092A1E6FB67601D2F47ACE33A8C5</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -606,7 +606,7 @@ Revamped variant support. Untested at this point, upgrading is not recommended.<
         <Path>Source\JSON Value\Object\Remove Value.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6EF0E54EF88AAF06E522E4CFF7E7F911</GUID>
+      <GUID>CCB135A0DAB9832E98919B2988EC43B2</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -683,7 +683,7 @@ Revamped variant support. Untested at this point, upgrading is not recommended.<
         <Path>Source\JSON Variant Support\variant to json.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>092340EC7FDBF3EAAE9FC801CFE33CDA</GUID>
+      <GUID>ED7940A2B5316A571F93996403840CBE</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -746,7 +746,7 @@ Revamped variant support. Untested at this point, upgrading is not recommended.<
         <Path>Source\JSON Value\By Pointer\Set(path).vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E1A0DE7CBA1AE502147CAC432DDB3034</GUID>
+      <GUID>314987ABC8AECD187AAF396B578A95AA</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
