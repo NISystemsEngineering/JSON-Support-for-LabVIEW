@@ -11,6 +11,29 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="includes" Type="Folder">
+			<Item Name="error" Type="Folder">
+				<Item Name="Build Error Cluster__ogtk.vi" Type="VI" URL="../includes/error/error.llb/Build Error Cluster__ogtk.vi"/>
+			</Item>
+			<Item Name="lvdata" Type="Folder">
+				<Item Name="Array of VData to VCluster__ogtk.vi" Type="VI" URL="../includes/lvdata/lvdata.llb/Array of VData to VCluster__ogtk.vi"/>
+				<Item Name="Array Size(s)__ogtk.vi" Type="VI" URL="../includes/lvdata/lvdata.llb/Array Size(s)__ogtk.vi"/>
+				<Item Name="Array to Array of VData__ogtk.vi" Type="VI" URL="../includes/lvdata/lvdata.llb/Array to Array of VData__ogtk.vi"/>
+				<Item Name="Array to VCluster__ogtk.vi" Type="VI" URL="../includes/lvdata/lvdata.llb/Array to VCluster__ogtk.vi"/>
+				<Item Name="Get Data Name from TD__ogtk.vi" Type="VI" URL="../includes/lvdata/lvdata.llb/Get Data Name from TD__ogtk.vi"/>
+				<Item Name="Get Data Name__ogtk.vi" Type="VI" URL="../includes/lvdata/lvdata.llb/Get Data Name__ogtk.vi"/>
+				<Item Name="Get Header from TD__ogtk.vi" Type="VI" URL="../includes/lvdata/lvdata.llb/Get Header from TD__ogtk.vi"/>
+				<Item Name="Get Last PString__ogtk.vi" Type="VI" URL="../includes/lvdata/lvdata.llb/Get Last PString__ogtk.vi"/>
+				<Item Name="Get PString__ogtk.vi" Type="VI" URL="../includes/lvdata/lvdata.llb/Get PString__ogtk.vi"/>
+				<Item Name="Get Variant Attributes__ogtk.vi" Type="VI" URL="../includes/lvdata/lvdata.llb/Get Variant Attributes__ogtk.vi"/>
+				<Item Name="Reshape Array to 1D VArray__ogtk.vi" Type="VI" URL="../includes/lvdata/lvdata.llb/Reshape Array to 1D VArray__ogtk.vi"/>
+				<Item Name="Set Data Name__ogtk.vi" Type="VI" URL="../includes/lvdata/lvdata.llb/Set Data Name__ogtk.vi"/>
+				<Item Name="Type Descriptor Enumeration__ogtk.ctl" Type="VI" URL="../includes/lvdata/lvdata.llb/Type Descriptor Enumeration__ogtk.ctl"/>
+				<Item Name="Type Descriptor Header__ogtk.ctl" Type="VI" URL="../includes/lvdata/lvdata.llb/Type Descriptor Header__ogtk.ctl"/>
+				<Item Name="Type Descriptor__ogtk.ctl" Type="VI" URL="../includes/lvdata/lvdata.llb/Type Descriptor__ogtk.ctl"/>
+				<Item Name="Variant to Header Info__ogtk.vi" Type="VI" URL="../includes/lvdata/lvdata.llb/Variant to Header Info__ogtk.vi"/>
+			</Item>
+		</Item>
 		<Item Name="JSON Value.lvclass" Type="LVClass" URL="../JSON Value/JSON Value.lvclass"/>
 		<Item Name="JSON Variant Support.lvclass" Type="LVClass" URL="../JSON Variant Support/JSON Variant Support.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -24,25 +47,6 @@
 				<Item Name="Picture to Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/Picture to Pixmap.vi"/>
 				<Item Name="LVFixedPointRepRangeTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/fxp/LVFixedPointRepRangeTypeDef.ctl"/>
 				<Item Name="LVFixedPointRepBitsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/fxp/LVFixedPointRepBitsTypeDef.ctl"/>
-			</Item>
-			<Item Name="user.lib" Type="Folder">
-				<Item Name="Build Error Cluster__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/error/error.llb/Build Error Cluster__ogtk.vi"/>
-				<Item Name="Get Last PString__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Get Last PString__ogtk.vi"/>
-				<Item Name="Get PString__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Get PString__ogtk.vi"/>
-				<Item Name="Type Descriptor Enumeration__ogtk.ctl" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Type Descriptor Enumeration__ogtk.ctl"/>
-				<Item Name="Type Descriptor Header__ogtk.ctl" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Type Descriptor Header__ogtk.ctl"/>
-				<Item Name="Type Descriptor__ogtk.ctl" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Type Descriptor__ogtk.ctl"/>
-				<Item Name="Get Header from TD__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Get Header from TD__ogtk.vi"/>
-				<Item Name="Variant to Header Info__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Variant to Header Info__ogtk.vi"/>
-				<Item Name="Get Variant Attributes__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Get Variant Attributes__ogtk.vi"/>
-				<Item Name="Set Data Name__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Set Data Name__ogtk.vi"/>
-				<Item Name="Array of VData to VCluster__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Array of VData to VCluster__ogtk.vi"/>
-				<Item Name="Get Data Name from TD__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Get Data Name from TD__ogtk.vi"/>
-				<Item Name="Get Data Name__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Get Data Name__ogtk.vi"/>
-				<Item Name="Array Size(s)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Array Size(s)__ogtk.vi"/>
-				<Item Name="Reshape Array to 1D VArray__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Reshape Array to 1D VArray__ogtk.vi"/>
-				<Item Name="Array to Array of VData__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Array to Array of VData__ogtk.vi"/>
-				<Item Name="Array to VCluster__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Array to VCluster__ogtk.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
